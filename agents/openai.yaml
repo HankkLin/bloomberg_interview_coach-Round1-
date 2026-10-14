@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bloomberg Interview Coach"
+  short_description: "Practice interview reasoning without solution spoilers"
+  default_prompt: "Use $bloomberg-interview-coach to guide me through this problem as interview practice without giving me the answer upfront."
